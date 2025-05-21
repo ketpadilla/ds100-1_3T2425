@@ -1,2 +1,2 @@
-# python-for-data-science-ai---development_ketpadilla
-Notes and Code for Coursera's Python for Data Science, AI &amp; Development (by IBM)
+# ds100-1_3T2425
+Exercises in partial fulfillment of DS100-1 for Term 3 of A.Y. 2024- 2025
